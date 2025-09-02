@@ -1,4 +1,4 @@
-package Java_8.Java;
+package Java_8_Concepts.Java;
 
 import java.util.Arrays;
 

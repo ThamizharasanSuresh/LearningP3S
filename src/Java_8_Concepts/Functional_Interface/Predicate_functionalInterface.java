@@ -1,4 +1,4 @@
-package Java_8.Functional_Interface;
+package Java_8_Concepts.Functional_Interface;
 
 import java.util.Arrays;
 import java.util.List;
