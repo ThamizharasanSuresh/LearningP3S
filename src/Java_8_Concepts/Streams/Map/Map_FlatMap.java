@@ -1,4 +1,4 @@
-package Java_8_Concepts.Streams;
+package Java_8_Concepts.Streams.Map;
 
 import java.util.*;
 import java.util.List;

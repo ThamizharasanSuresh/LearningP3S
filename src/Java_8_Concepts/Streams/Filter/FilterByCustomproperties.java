@@ -1,4 +1,4 @@
-package Java_8_Concepts.Streams;
+package Java_8_Concepts.Streams.Filter;
 
 import java.util.*;
 import java.util.ArrayList;
