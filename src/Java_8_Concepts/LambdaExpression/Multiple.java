@@ -1,3 +1,4 @@
+package Java_8_Concepts.LambdaExpression;
 
 interface Multipleparameter{
    int operation(int a,int b);

@@ -99,7 +99,7 @@ public class Java1 {
                 case 5:return "Friday";
                 case 6:return "Saturday";
                 case 7:return "Sunday";
-                default:return "Invalid Date Enter(1-7)";
+                default:return "Invalid Java_8_Concepts.DateAndTime.Date Enter(1-7)";
             }
         };
         System.out.println(dayfind.day(5));
